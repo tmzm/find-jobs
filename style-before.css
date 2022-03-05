@@ -1,0 +1,52 @@
+.amazon-nav{
+  background-color:rgb(0, 5, 36) ;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.searchall{
+  width: 500px;
+}
+#white-a{
+  padding-top: 20px ;
+}
+.padding-fif{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.hight{
+  height:  100px ;
+  position: absolute;
+}
+.card-sp{
+  width: 348px;
+  margin-bottom: 20px;
+}
+.sign-in{
+align-items: center;
+}
+.under-line {
+  text-decoration: none;
+}
+.botom{
+  background-color: rgb(231, 231, 231);
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.align-cen{
+  text-align: center;
+}
+.botom-b-t{
+  background-color: rgb(86, 86, 150);
+  text-align: center;
+  color: white;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.get-to{
+  color: white;
+  padding: 50px;
+  background-color: rgb(55, 55, 100);
+}
+
+
+/*# sourceMappingURL=style.css.map */
